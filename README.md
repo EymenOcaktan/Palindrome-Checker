@@ -34,7 +34,7 @@ This project includes two versions of a **Palindrome Checker** built in Python. 
 ## ▶️ How to Use
 
 1. Clone the repository or download the `.py` files.
-2. Run either `beginner_version.py` or `function_version.py` in a Python 3 environment.
+2. Run either `beginner_version.py` or `function_version.py` in a Python environment.
 3. Enter a word or sentence when prompted.
 4. The program will tell you whether your input is a palindrome.
 
